@@ -1,0 +1,23 @@
+uuid: 78846b23-513e-46a5-8fa6-686a815b90fb
+langcode: und
+status: true
+dependencies:
+  module:
+    - eck
+_core:
+  default_config_hash: p_1IcKZtYxBI0ubv2FNg-YkHBW1Gkk0qMOYRskDhjTc
+id: sl_rosters.field_sl_roster_details
+field_name: field_sl_roster_details
+entity_type: sl_rosters
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

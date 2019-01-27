@@ -1,0 +1,21 @@
+uuid: 3a922ec5-8ae9-4539-ad33-9397c3a5abeb
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.sl_rosters.sl_roster_text
+    - field.storage.sl_rosters.field_sl_roster_player_name
+_core:
+  default_config_hash: r0O8lnHsxpQHSH60rfMKulGs8Qft50UehKlVI-RM6Do
+id: sl_rosters.sl_roster_text.field_sl_roster_player_name
+field_name: field_sl_roster_player_name
+entity_type: sl_rosters
+bundle: sl_roster_text
+label: Name
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

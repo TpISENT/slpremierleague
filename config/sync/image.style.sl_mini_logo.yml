@@ -1,0 +1,17 @@
+uuid: a92c92c9-b740-420a-a055-66f282fd4c8f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2hBoxoepRbCFgZQSVOpgN1uJnbIW-Ytue-9OH8WodoY
+name: sl_mini_logo
+label: 'SL mini logo'
+effects:
+  6f9760b1-0c9a-481f-9456-1854b0c43641:
+    uuid: ''
+    id: image_scale
+    weight: 1
+    data:
+      width: 50
+      height: 50
+      upscale: false

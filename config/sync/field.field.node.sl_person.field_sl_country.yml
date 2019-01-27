@@ -1,0 +1,27 @@
+uuid: 164ee961-837d-44dd-a0ea-0af539772312
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_sl_country
+    - node.type.sl_person
+  module:
+    - country
+_core:
+  default_config_hash: _e9ltxzAtF-5rpPtAolger6NOdBQfBQ4yGIanh1WWRw
+id: node.sl_person.field_sl_country
+field_name: field_sl_country
+entity_type: node
+bundle: sl_person
+label: Country
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: SL
+default_value_callback: ''
+settings:
+  selectable_countries:
+    SL: SL
+field_type: country

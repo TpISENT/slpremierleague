@@ -1,0 +1,24 @@
+uuid: b97e4f91-a07e-4350-bd44-3d02662b491b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.sl_competition
+  module:
+    - text
+_core:
+  default_config_hash: Lvtvfeir2SjDg5nygp3nYvOZ_AY14XJEvnzdWuy8g9A
+id: node.sl_competition.body
+field_name: body
+entity_type: node
+bundle: sl_competition
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

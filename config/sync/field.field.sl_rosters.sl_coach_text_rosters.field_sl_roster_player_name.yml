@@ -1,0 +1,23 @@
+uuid: 2dbb778a-8163-4437-96ae-2625c29741f5
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.sl_rosters.sl_coach_text_rosters
+    - field.storage.sl_rosters.field_sl_roster_player_name
+  module:
+    - text
+_core:
+  default_config_hash: ew2mk2SdikKQYi-hKhjSYPas1Ql5TkBVHfSf-DTZwKI
+id: sl_rosters.sl_coach_text_rosters.field_sl_roster_player_name
+field_name: field_sl_roster_player_name
+entity_type: sl_rosters
+bundle: sl_coach_text_rosters
+label: Name
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

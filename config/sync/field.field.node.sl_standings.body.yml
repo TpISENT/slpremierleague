@@ -1,0 +1,24 @@
+uuid: 9a80fb42-93ba-4a0c-9e01-636487a41060
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.sl_standings
+  module:
+    - text
+_core:
+  default_config_hash: EIBWCbza-DxkJLWyGpx2UnC1YLZPX2o-_ZpcpiLqoZU
+id: node.sl_standings.body
+field_name: body
+entity_type: node
+bundle: sl_standings
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

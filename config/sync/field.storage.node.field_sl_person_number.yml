@@ -1,0 +1,22 @@
+uuid: 21ff8e0f-24ee-4b71-a871-7a56e24117c8
+langcode: und
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: 2lUq3LbbubtdCOq_enXGYfpqMOWuQ8RGm2lVnz9x5Ig
+id: node.field_sl_person_number
+field_name: field_sl_person_number
+entity_type: node
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

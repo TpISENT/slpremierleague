@@ -1,0 +1,21 @@
+uuid: 7f283ff8-9bb4-4527-89cb-1ad494707d90
+langcode: und
+status: true
+dependencies:
+  module:
+    - eck
+    - text
+_core:
+  default_config_hash: CWIWPIe4sy-ZKvHV5-R50ew9Y1NNSxA6aZFbiJ0QBEE
+id: sl_match_moments.field_sl_match_moments_des
+field_name: field_sl_match_moments_des
+entity_type: sl_match_moments
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

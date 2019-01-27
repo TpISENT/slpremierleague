@@ -1,0 +1,23 @@
+uuid: 9d45397d-c25d-4e0e-a2b5-c79123ef21da
+langcode: und
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: TWLhj8DDOa64R8uCdiyQwIyt-VPME_MUYgOfhfy7b6w
+id: node.field_sl_person_birth_place
+field_name: field_sl_person_birth_place
+entity_type: node
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

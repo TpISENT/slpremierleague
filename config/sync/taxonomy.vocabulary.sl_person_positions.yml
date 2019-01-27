@@ -1,0 +1,11 @@
+uuid: bb0c9882-ce00-4afc-bb31-c69468d2b406
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TJz9JS9GyFbWlm-g3wy5CbwcNfyKFae1OWsq936cpX8
+name: 'Sports League person positions'
+vid: sl_person_positions
+description: ''
+hierarchy: 0
+weight: 0

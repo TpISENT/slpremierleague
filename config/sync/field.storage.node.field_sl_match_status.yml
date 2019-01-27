@@ -1,0 +1,32 @@
+uuid: 7a6e4d2f-0355-41a9-89c6-07d73c6ca4a7
+langcode: und
+status: true
+dependencies:
+  module:
+    - node
+    - options
+_core:
+  default_config_hash: Roe4D456Xgi-08B8eEEirrq-lObVd2L-CUm_tZ69j0I
+id: node.field_sl_match_status
+field_name: field_sl_match_status
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'to be played'
+      label: 'To be played'
+    -
+      value: 'being played'
+      label: 'Being played'
+    -
+      value: played
+      label: Played
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

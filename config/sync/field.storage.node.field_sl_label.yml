@@ -1,0 +1,23 @@
+uuid: 010a88c1-a7eb-4163-b821-19473da8182b
+langcode: und
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: gpSc54H5hbIgocjYeGFu97HQKCi9JIC01lCiK2n1JbQ
+id: node.field_sl_label
+field_name: field_sl_label
+entity_type: node
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,11 @@
+uuid: 23d7e658-e712-4acc-b8aa-0a7af3b08ddf
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.sl_rosters
+_core:
+  default_config_hash: naIaT6Qxn_0BF3Avzprq5marLjRPX24nRtGq6xjc1E8
+name: 'Full Roster'
+type: sl_rosters
+description: 'Full Roster'

@@ -1,0 +1,22 @@
+uuid: 4a15e98e-5550-4a7a-99e5-a502f43c279e
+langcode: und
+status: true
+dependencies:
+  module:
+    - eck
+    - node
+_core:
+  default_config_hash: Wtl_TqYmlfKlcfzwOma8hniFNInv46XoCrqKm0OQ08Y
+id: node.field_sl_match_away_coach
+field_name: field_sl_match_away_coach
+entity_type: node
+type: entity_reference
+settings:
+  target_type: sl_rosters
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

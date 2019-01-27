@@ -1,0 +1,11 @@
+uuid: f1895814-2bc6-4e4b-a84a-ac574bb1e386
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.sl_match_moments
+_core:
+  default_config_hash: or4Tz-M5pb0YKz-HI6PR4gPCSWVigNvyao2tYm7312Y
+name: 'Red Card'
+type: sl_match_moments_red_card
+description: 'Red Card'

@@ -1,0 +1,11 @@
+uuid: 7ac7145c-4385-4756-8311-e7c9b5c82474
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.sl_stats
+_core:
+  default_config_hash: Mini3lr3oi3tDYQHmbCfEcFg9xAuv-zPkEtD0d9-KT4
+name: sl_stats_coach
+type: sl_stats_coach
+description: sl_stats_coach

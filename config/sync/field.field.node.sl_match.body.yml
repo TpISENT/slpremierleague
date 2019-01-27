@@ -1,0 +1,24 @@
+uuid: f59a571a-66bd-4571-83f0-382c6679c042
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.sl_match
+  module:
+    - text
+_core:
+  default_config_hash: zW3-c7Ts5wBPG_DRyxEOHSeBZjBAAtzQ8-TZuGE1EW8
+id: node.sl_match.body
+field_name: body
+entity_type: node
+bundle: sl_match
+label: Corpo
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+field_type: text_with_summary

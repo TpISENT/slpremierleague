@@ -1,0 +1,20 @@
+uuid: 5fbc1252-214c-41f3-b007-ccb383470f5d
+langcode: und
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: Mt_SXDwfu2_ZT1JQoUpHWEia_dTFoyCyjqHLIHLXDsA
+id: node.field_sl_stats_disabled
+field_name: field_sl_stats_disabled
+entity_type: node
+type: boolean
+settings: {  }
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

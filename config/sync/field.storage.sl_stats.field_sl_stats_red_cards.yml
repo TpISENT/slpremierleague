@@ -1,0 +1,22 @@
+uuid: cf5030f1-5215-4845-9db0-19191e4e9e43
+langcode: und
+status: true
+dependencies:
+  module:
+    - eck
+_core:
+  default_config_hash: atJFlr1OYKgln1yft4PgAkhsh9g5MTRCIK71NjNXRv0
+id: sl_stats.field_sl_stats_red_cards
+field_name: field_sl_stats_red_cards
+entity_type: sl_stats
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

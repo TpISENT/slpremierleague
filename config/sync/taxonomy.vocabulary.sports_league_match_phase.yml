@@ -1,0 +1,11 @@
+uuid: 5be0706b-b504-4274-842d-b5b45cfdc421
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OKNaoIo4EXvhwLllOhWZIKv8SnOfBcXMOHmCOBJagWk
+name: 'Sports League Match Phase'
+vid: sports_league_match_phase
+description: ''
+hierarchy: 0
+weight: 0

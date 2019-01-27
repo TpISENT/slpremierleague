@@ -1,0 +1,11 @@
+uuid: 2531dd12-327a-451a-8ae9-43534043a2f1
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.sl_stats
+_core:
+  default_config_hash: gweJuDYx-skieGCHq8FYsJcTX8jILnLphJ1fV673KRs
+name: 'SL Stats Mini'
+type: sl_stats_mini
+description: 'SL Stats Mini'

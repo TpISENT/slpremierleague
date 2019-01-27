@@ -1,0 +1,22 @@
+uuid: 998261d7-0ea6-4e89-90e0-14aa9afe266e
+langcode: und
+status: true
+dependencies:
+  module:
+    - eck
+_core:
+  default_config_hash: IFjYhIHFCeb22HKUEEEXri07wM0TCDH7TpAQiknyOYs
+id: sl_stats.field_sl_stats_matches
+field_name: field_sl_stats_matches
+entity_type: sl_stats
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

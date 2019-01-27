@@ -1,0 +1,20 @@
+uuid: 3f88a568-3077-4959-a4b5-6dac3d3cc6dc
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+_core:
+  default_config_hash: mKCPFQzQ1YnvDealSICAuEt7btjvFbDLoBsa04v2CUg
+name: Standings
+type: sl_standings
+description: 'Provides standings for competitions in Sports League'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

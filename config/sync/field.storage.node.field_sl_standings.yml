@@ -1,0 +1,22 @@
+uuid: 4815d412-e4ab-44ab-9d3a-5ce90401e588
+langcode: und
+status: true
+dependencies:
+  module:
+    - eck
+    - node
+_core:
+  default_config_hash: SR1eho3YF2cyBxz8_MBdOgzQIZRgiIauBGKJHQ5I2Ns
+id: node.field_sl_standings
+field_name: field_sl_standings
+entity_type: node
+type: entity_reference
+settings:
+  target_type: sl_standings_rosters
+module: core
+locked: false
+cardinality: -1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

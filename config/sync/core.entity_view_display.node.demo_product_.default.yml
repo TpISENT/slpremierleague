@@ -1,0 +1,30 @@
+uuid: ba88152e-43b3-4977-b389-fb1335ff1671
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.demo_product_.field_product_image
+    - node.type.demo_product_
+  module:
+    - image
+    - user
+id: node.demo_product_.default
+targetEntityType: node
+bundle: demo_product_
+mode: default
+content:
+  field_product_image:
+    type: image
+    weight: 1
+    region: content
+    label: hidden
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+  links:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }

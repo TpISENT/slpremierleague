@@ -1,0 +1,11 @@
+uuid: 4b7db8ff-a00a-47bc-95bb-020876db7469
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: o68pJKIzXHBkWG_NYU_s9xAMFFpbcPEc56_7fco3JsE
+name: Sports
+vid: sl_sports
+description: ''
+hierarchy: 0
+weight: 0

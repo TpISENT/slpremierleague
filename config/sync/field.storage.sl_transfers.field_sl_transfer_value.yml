@@ -1,0 +1,22 @@
+uuid: d3ab524b-7e6a-4054-a18e-e36f252a0185
+langcode: und
+status: true
+dependencies:
+  module:
+    - eck
+    - text
+_core:
+  default_config_hash: LmPP5pVxR37DDeovyQn-1D1_i0r3PLLN8hmnes2VlKA
+id: sl_transfers.field_sl_transfer_value
+field_name: field_sl_transfer_value
+entity_type: sl_transfers
+type: text
+settings:
+  max_length: 255
+module: text
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

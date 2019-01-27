@@ -1,0 +1,23 @@
+uuid: cd23bbb8-55be-4e0f-bf00-a1b7e032ff64
+langcode: und
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: oRZUFKNy9B6cKWGSnD4MKTC9WcK_8lePKRYl3TPXOJc
+id: node.field_sl_person_weight
+field_name: field_sl_person_weight
+entity_type: node
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

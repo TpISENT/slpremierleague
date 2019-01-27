@@ -1,0 +1,11 @@
+uuid: 4efd1a5a-6b2a-49cf-887b-120f4b77aa52
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.sl_rosters
+_core:
+  default_config_hash: Z4Jpq9e71C6PCUTJc8pqh4b_UcNPsC6rtnSuhZswIk0
+name: 'Text roster'
+type: sl_roster_text
+description: 'Text roster'

@@ -1,0 +1,20 @@
+uuid: fea4cfe6-f218-43c5-a493-66d9d917b8d4
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+_core:
+  default_config_hash: E28pD7voUPWEp3BvfptxSYoppcsQTSUJJJU3BGE5hto
+name: Competition
+type: sl_competition
+description: 'Contains competitions for Sports League that can be instantiated'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

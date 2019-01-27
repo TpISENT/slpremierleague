@@ -1,0 +1,24 @@
+uuid: b089887b-af63-4c1e-b099-ec00a08255ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.sl_title
+  module:
+    - text
+_core:
+  default_config_hash: Or-_pCxSORdvSIuv2jxU8OLbv59uNUht20zReSgNPtU
+id: node.sl_title.body
+field_name: body
+entity_type: node
+bundle: sl_title
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary
